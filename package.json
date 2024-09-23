@@ -36,7 +36,7 @@
     "d3-polygon": "1",
     "eslint": "3",
     "package-preamble": "0.1",
-    "rollup": "0.41",
+    "rollup": "4.22",
     "tape": "4",
     "uglify-js": "^2.8.11"
   }
